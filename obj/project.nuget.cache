@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E4lcnCJHyuGK8lP16flrMUaMLdbSwqOTWGVAtnUmP31Z3suToE1eJb23PRr547DKVY/YucrlFzu//CUddkXYxA==",
+  "dgSpecHash": "0S/jeu8zK9RTrGxdr/h/wJi72c/sTZVVWDwdWuNJjemiAyrEPWtr2sWXwajAebI9pslcwtFvRjXV4VOfNdxWCQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Alexia-work\\Exercism\\csharp\\elons-toys\\ElonsToys.csproj",
+  "projectFilePath": "C:\\Users\\Alexia-work\\Exercism\\csharp\\elons-toys\\ElonsToys.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexia-work\\.nuget\\packages\\exercism.tests\\0.1.0-beta1\\exercism.tests.0.1.0-beta1.nupkg.sha512",
     "C:\\Users\\Alexia-work\\.nuget\\packages\\microsoft.codecoverage\\16.8.3\\microsoft.codecoverage.16.8.3.nupkg.sha512",

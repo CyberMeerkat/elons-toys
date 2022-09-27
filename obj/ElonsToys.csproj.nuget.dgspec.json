@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Alexia-work\\Exercism\\csharp\\elons-toys\\ElonsToys.csproj": {}
+    "C:\\Users\\Alexia-work\\Exercism\\csharp\\elons-toys\\ElonsToys.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Alexia-work\\Exercism\\csharp\\elons-toys\\ElonsToys.csproj": {
+    "C:\\Users\\Alexia-work\\Exercism\\csharp\\elons-toys\\ElonsToys.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Alexia-work\\Exercism\\csharp\\elons-toys\\ElonsToys.csproj",
+        "projectUniqueName": "C:\\Users\\Alexia-work\\Exercism\\csharp\\elons-toys\\ElonsToys.csproj",
         "projectName": "ElonsToys",
-        "projectPath": "c:\\Users\\Alexia-work\\Exercism\\csharp\\elons-toys\\ElonsToys.csproj",
+        "projectPath": "C:\\Users\\Alexia-work\\Exercism\\csharp\\elons-toys\\ElonsToys.csproj",
         "packagesPath": "C:\\Users\\Alexia-work\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Alexia-work\\Exercism\\csharp\\elons-toys\\obj\\",
+        "outputPath": "C:\\Users\\Alexia-work\\Exercism\\csharp\\elons-toys\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexia-work\\AppData\\Roaming\\NuGet\\NuGet.Config"
