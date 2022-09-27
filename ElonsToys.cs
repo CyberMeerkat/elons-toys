@@ -2,24 +2,22 @@ using System;
 
 class RemoteControlCar
 {
-    public static RemoteControlCar Buy() => new RemoteControlCar();
+    public static RemoteControlCar Buy() => new();
     public string DistanceDisplay() =>
-        $"Driven {distanceCovered} meters";
+        $"Driven {_distanceCovered} meters";
 
     public string BatteryDisplay() =>
-        batteryLife > 0 ? $"Battery at {batteryLife}%" : "Battery empty";
+        _batteryLife > 0 ? $"Battery at {_batteryLife}%" : "Battery empty";
 
     public void Drive()
     {
-        if (batteryLife > 0)
+        if (_batteryLife > 0)
         {
-            distanceCovered += 20;
-            batteryLife -= 1;
-            if (batteryLife <= 0)
-                BatteryDisplay();
+            _distanceCovered += 20;
+            _batteryLife -= 1;
         }
     }
 
-    private int distanceCovered = 0;
-    private int batteryLife = 100;
+    private int _distanceCovered = 0;
+    private int _batteryLife = 100;
 }
